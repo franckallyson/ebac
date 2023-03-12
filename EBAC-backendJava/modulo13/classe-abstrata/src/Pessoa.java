@@ -1,18 +1,14 @@
 public abstract class Pessoa {
     String nome;
-    byte idade;
-    float altura;
-    float peso;
+    String endereco;
 
     public Pessoa() {
 
     }
 
-    public Pessoa(String nome, byte idade, float altura, float peso) {
+    public Pessoa(String nome, String endereco) {
         this.nome = nome;
-        this.idade = idade;
-        this.altura = altura;
-        this.peso = peso;
+        this.endereco = endereco;
     }
 
     public String getNome() {
@@ -23,27 +19,11 @@ public abstract class Pessoa {
         this.nome = nome;
     }
 
-    public byte getIdade() {
-        return idade;
+    public String getEndereco() {
+        return endereco;
     }
 
-    public void setIdade(byte idade) {
-        this.idade = idade;
-    }
-
-    public float getAltura() {
-        return altura;
-    }
-
-    public void setAltura(float altura) {
-        this.altura = altura;
-    }
-
-    public float getPeso() {
-        return peso;
-    }
-
-    public void setPeso(float peso) {
-        this.peso = peso;
+    public void setEndereco(String endereco) {
+        this.endereco = endereco;
     }
 }
