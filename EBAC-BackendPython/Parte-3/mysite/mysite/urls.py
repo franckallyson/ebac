@@ -24,5 +24,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('home/', include('blog.urls')),
     path('authors/', views.AuthorView.as_view(), name='author'),
-    path('authors/<int:pk>/', views.AuthorDetailView.as_view(), name='author_detail')
+    path('authors/<int:pk>/', views.AuthorDetailView.as_view(), name='author_detail'),
 ]
