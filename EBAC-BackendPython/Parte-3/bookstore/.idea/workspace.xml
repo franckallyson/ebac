@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e88033c-0c89-4e2a-aebf-cd49433284a3" name="Changes" comment="" />
+    <list default="true" id="3e88033c-0c89-4e2a-aebf-cd49433284a3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/order/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/order/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/order/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/admin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/models/Category.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/models/category.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/models/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/models/product.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
