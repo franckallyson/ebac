@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e88033c-0c89-4e2a-aebf-cd49433284a3" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product/tests/test_viewsets/test_product_viewset.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/tests/test_viewsets/test_product_viewset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product/viewsets/category_viewset.py" beforeDir="false" afterPath="$PROJECT_DIR$/product/viewsets/category_viewset.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
